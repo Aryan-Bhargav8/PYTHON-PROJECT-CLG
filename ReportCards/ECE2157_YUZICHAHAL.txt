@@ -1,0 +1,14 @@
+Name of the student : YUZI CHAHAL 
+Class Roll of the student : 57 
+Stream of the student : ECE 
+Your Student ID is : ECE2157
+
+Marks obtained in Math is : 93 
+Marks obtained in Python is : 89 
+Marks obtained in Physics is : 87 
+Marks obtained in Chemistry is : 90 
+Marks obtained in Biology is : 77 
+Marks obtained in English is : 91 
+
+You have got 527 in total with 105%
+Excellent Performance... You have passed the exam with grade B.

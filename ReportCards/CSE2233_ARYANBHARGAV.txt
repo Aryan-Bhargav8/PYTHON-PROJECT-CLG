@@ -1,0 +1,14 @@
+Name of the student : ARYAN BHARGAV 
+Class Roll of the student : 33 
+Stream of the student : CSE 
+Your Student ID is : CSE2233
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 97 
+Marks obtained in Chemistry is : 86 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 89 
+
+You have got 552 in total with 92%
+Outstanding Performance... You have passed the exam with grade A.
